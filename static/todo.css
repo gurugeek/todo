@@ -21,7 +21,7 @@ button {
 }
 
 body {
-	font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font: 14px "Giant Background A", "Giant Background B";
 	line-height: 1.4em;
 	background: #f5f5f5;
 	color: #4d4d4d;
@@ -42,6 +42,7 @@ body {
 }
 
 .todoapp {
+	
 	background: #fff;
 	margin: 130px 0 40px 0;
 	position: relative;
